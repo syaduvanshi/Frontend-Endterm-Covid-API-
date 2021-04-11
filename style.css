@@ -1,0 +1,70 @@
+
+
+body{
+    background-image: url(ab.gif);
+    margin:0px;
+
+    
+}
+#mydiv{
+    height:150px;
+    width:100vw;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+#country{
+    
+    
+    padding: 13px;
+    font-family: calibri;
+    font-size: 15px;
+}
+#start
+{
+   
+    padding: 13px;
+    font-family: calibri;
+    font-size: 15px;
+}
+#end
+{
+   
+    padding: 13px;
+    font-family: calibri;
+    font-size: 15px;
+}
+#submit
+{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 20px;
+    font-family: calibri;
+    background:black;
+    color:white;
+}
+#ldiv{
+    height:400px;
+    width:100vw;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#res{
+    
+   
+    padding: 20px;
+    height: 150px;
+    
+    align-items:center;
+    width:350px;
+    background:white;
+    color:rgb(15, 41, 15);
+    font-family: calibri;
+    
+}
