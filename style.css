@@ -60,7 +60,7 @@ body{
    
     padding: 20px;
     height: 150px;
-    
+    display:none;
     align-items:center;
     width:350px;
     background:white;
